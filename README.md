@@ -13,3 +13,9 @@
 - [Instalación de Tailwind CSS](/Instalaciones/Tailwind/tailwind.md)
 
 ---
+
+## 🟣 Sass
+
+- [Instalación de Sass](/Instalaciones/Sass/sass.md)
+
+---
