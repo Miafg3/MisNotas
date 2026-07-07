@@ -5,6 +5,7 @@
 ## 🌐 Fundamentos
 
 - [¿Cómo funciona Internet?](/Fundamentos/internet.md)
+- [DNS - Sistema de Nombres de Dominio](/Fundamentos/dns.md)
 
 ---
 
