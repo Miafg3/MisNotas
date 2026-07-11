@@ -5,6 +5,8 @@
 ## 🌐 Fundamentos
 
 - [¿Cómo funciona Internet?](/Fundamentos/internet.md)
+- [¿Qué es un Protocolo?](/Fundamentos/protocolo.md)
+- [HTTP y HTTPS](/Fundamentos/http-https.md)
 - [DNS - Sistema de Nombres de Dominio](/Fundamentos/dns.md)
 
 ---
