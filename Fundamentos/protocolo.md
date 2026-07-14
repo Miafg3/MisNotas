@@ -18,10 +18,9 @@ Los protocolos establecen reglas sobre:
 
 Sin estas reglas, la transmisión de datos sería caótica e inservible.
 
+## 🧩 Protocolos Mas Comunes
 
-## 🧩 Ejemplos de protocolos comunes
-
-### 🔹 TCP (Transmission Control Protocol)**
+### 🔹 TCP (Transmission Control Protocol)
 
 Se encarga de que los datos lleguen:
 
@@ -31,10 +30,9 @@ Se encarga de que los datos lleguen:
 
 Divide la información en paquetes y los reensambla en el destino.
 
-
 ### 🔹 IP (Internet Protocol)
 
-Su función es dirigir los paquetes de datos a través de la red.
+Se encarga de que la información llegue al dispositivo correcto.
 
 Define:
 
@@ -42,16 +40,27 @@ Define:
 - Dirección de destino
 - Ruta de entrega
 
-En otras palabras, se encarga de que la información llegue al dispositivo correcto.
+### 🔹 HTTP & HTTPS
 
-
-### 🔹 HTTP & HTTPS (HyperText Transfer Protocol)
-
-Es el protocolo utilizado para la transferencia de información en la Web.
+Reglas utilizadas para transferir páginas web desde un servidor a tu navegador. La "S" al final indica que la conexión está cifrada y es segura.
 
 Permite la comunicación entre:
 
 - Navegadores
 - Servidores web
 
-Gracias a HTTP puedes cargar páginas, imágenes, videos y otros recursos en Internet.
+### 🔹 FTP
+
+Protocolo estándar para la transferencia de archivos entre un cliente y un servidor.
+
+### 🔹 DNS 
+
+Traduce nombres de sitios web (fáciles de recordar) a direcciones IP (números).
+
+### 🔹 SMTP / IMAP: 
+
+Protocolos encargados del correo electrónico. SMTP envía los mensajes salientes, e IMAP te permite leer los mensajes entrantes y mantenerlos sincronizados en el servidor.
+
+## 📚 Recursos recomendados
+
+- 🎥 [YouTube - ¿Qué son los protocolos de internet?](https://www.youtube.com/watch?v=gIye5ECo06E)
