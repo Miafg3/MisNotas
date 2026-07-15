@@ -18,7 +18,7 @@ Con esto:
 
 Gracias a los DNS no necesitamos memorizar **direcciones IP** para navegar en internet.
 
-![Imagen](/Fundamentos/imagenes/dns.png)
+![Imagen](/Imagenes/dns.png)
 
 ## 🔄 Flujo DNS simplificado
 
